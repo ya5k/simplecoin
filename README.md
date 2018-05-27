@@ -1,0 +1,2 @@
+# simplecoin
+yet another cryptocurrnecy
